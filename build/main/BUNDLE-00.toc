@@ -1,0 +1,1 @@
+([('main', '/Users/billanton/Desktop/FitTracker/dist/main', 'EXECUTABLE')],)
